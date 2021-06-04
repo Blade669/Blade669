@@ -10,7 +10,7 @@ I'm currently studying at the University of Rzeszów. I really enjoy programming
 * 🏢 GitHub, Jira, Microsoft Office
 
 ### Interests
-* 💻 Learning new languages
+* 💻 Java
 * :car: Cars
 
 
