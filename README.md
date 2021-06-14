@@ -4,9 +4,9 @@
 I'm currently studying at the University of Rzeszów. I really enjoy programming in Java and expand my knowledge about this language.
 
 ### Skills and Experience
+* 💻 Java
 * 🖥️ HTML, CSS, PHP
 * 🗃️ MySQL, Oracle Database
-* 💻 Java
 * 🏢 GitHub, Jira, Microsoft Office
 
 ### Interests
